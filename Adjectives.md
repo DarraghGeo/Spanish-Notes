@@ -6,9 +6,8 @@ Order
 
 Adjectives typically go after the noun, but placing some of them before it can change their meaning.
 
- |--------------------------------------------|
  |Adjective | Before        | After           |
- |--------------------------------------------|
+ |----------+---------------+-----------------|
  |Antiguo   | Former        | Old             |
  |Diferente | Various       | Different       |
  |Grande    | Great         | Big             |
@@ -17,7 +16,6 @@ Adjectives typically go after the noun, but placing some of them before it can c
  |Nuevo     | New           | Brand new       |
  |Pobre     | Unfortunate   | Poor            |
  |Viejo     | Long standing | Old age         |
- |--------------------------------------------|
 
 Comparitives
 ------------
