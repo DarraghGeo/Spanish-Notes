@@ -17,7 +17,7 @@ Use:
 Indefinite Articles
 -------------------
 
-Do not use after Tener, Buscar, Llevar when you are likely to only be referring to one thing, unless the nouns is further described by an adjective.
+Do not use after _Tener_, _Buscar_, _Llevar_ when you are likely to only be referring to one thing, unless the nouns is further described by an adjective.
  - No tengo coche => I have not got a car
  - No tengo un choche rojo => I have not got a red car
 
@@ -32,20 +32,20 @@ Do not use with:
 Nueter Articles
 ---------------
 
-Lo + Adjective/Past Participle forms a noun
+_Lo + Adjective/Past Participle_ forms a noun
  - Lo mismo => The same thing
  - Lo único => The only thing
  - Lo bueno => The good thing
 
-Lo de + Noun Phrase refers to something all parties know about
+_Lo de_ + Noun Phrase refers to something all parties know about
  - Lo de tu hermano => That thing [of] your brother
  - Lo de ayer => That thing [of] yesterday
 
-Lo que can be used to mean What
+_Lo que_ can be used to mean _What_
  - Ví lo que pasó => I saw what happened
  - Lo que más me gusta => What I like best
 
-Lo + Adjective/Adverb + Que can be used to emphasize
+_Lo + Adjective/Adverb + Que_ can be used to emphasize
  - Lo pequeña que era la casa => How small that house was
  - Lo mucho que te gusta => How much you like
 
