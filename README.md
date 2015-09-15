@@ -1,24 +1,28 @@
-# Spanish-Notes
+Spanish Notes
+=============
 
 Included in this repository are my Spanish grammar notes.
 
 Notes
-=====
+-----
  - These Spanish notes are for Latin American Spanish (more specfically Colombian), as such the Vosotros conjugations are not included as they are not commonly used in Latin America.
  - In the conjugation tables a minus (-) before a verb ending indicates the conjugated ending is added to the end of the __root__ of the verb (the verb without the ar/er/ir at the end), while a plus (+) indicates the conjugation ending is added onto the end of the complete infinitive.
+
 
 Misc.
 =====
 
 Gerund
 ------
- - The gerund is formed by adding the following endings onto the __root__ of the verb.
+The gerund is formed by adding the following endings onto the __root__ of the verb.
+
 old | new
 ---:|:-----
  ar |  ando
  er | iendo
  ir | iendo
- - The pronoun of the verb is often attached to the end of the gerund, however with continuous tenses it can also be placed before _Estar_.
+
+The pronoun of the verb is often attached to the end of the gerund, however with continuous tenses it can also be placed before _Estar_.
 
 Vos
 ---
@@ -42,5 +46,7 @@ Todo
 ====
  - Add notes for Impersonal verbs.
 
+Lisence
+=======
 Feel free to use, modify, pull, push and whatever you want with them.
 No guarantee for accuracy, and no license. If you do notice inaccuracies feel free to make a pull request.
