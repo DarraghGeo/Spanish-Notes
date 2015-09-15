@@ -2,7 +2,7 @@ Conditional
 ===========
 
   +ar |   +er |   +ir
----------------------
+-----:|------:|-----:
    ía |    ía |    ía
   ías |   ías |   ías
 íamos | íamos | íamos
