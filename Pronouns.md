@@ -24,6 +24,6 @@ The interrogative pronouns are
  - ¿De quién? => Whose?
  - ¿Cuanto? => How much?
 
-Use _¿Qué?_ when asking someone to define, explain or classify something, or it is immediately followed by a noun. Otherwise, use _¿Cuál?_
+Use _¿Qué?_ when asking someone to define, explain or classify something, or if it is immediately followed by a noun. Otherwise, use _¿Cuál?_
 
 When _¿Quién?_ is the object of a verb it becomes _¿A quién?_
