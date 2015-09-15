@@ -10,14 +10,19 @@ Notes
 Misc.
 =====
 
- - In Medellín, and maybe other parts of Colombia and Latin America in general, the _Vos_ conjugation is used among close friends instead of  _Tú_.
- - - To form the _Vos_ conjugation remplace _r_ at the end of the infinitive with an _s_ and add an accent onto the _a_,_e_, or _i_ that immediately proceeds it.
+Vos
+---
+In Medellín, and maybe other parts of Colombia and Latin America in general, the _Vos_ conjugation is used among close friends instead of  _Tú_.
 
-> Vivís => You live.
-> Comprás => You buy.
-> Comés => You eat.
- - - This conjugation only exists in the present indicative and present subjunctive tenses.
- - - There are some irregular verbs
+To form the _Vos_ conjugation remplace _r_ at the end of the infinitive with an _s_ and add an accent onto the _a_,_e_, or _i_ that immediately proceeds it.
+
+ - Vivís => You live.
+ - Comprás => You buy.
+ - Comés => You eat.
+
+This conjugation only exists in the present indicative and present subjunctive tenses.
+
+There are some irregular verbs
 
 Infinitive | Vos
 ----------:|:---
