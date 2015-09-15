@@ -1,16 +1,25 @@
 Imperative
 ==========
 
-  ar | er/ir
-----:|------:
-  es |   as
-   e |    a
-emos | amos
-  en |   an
+Use
+---
+To give commands
 
-Note: The positive _Tú_ form of the imperative is the Present Simple conjugation without the final 's'.
+Form
+----
 
-The object pronoun is attached to the end of the verb in the positive and proceeds the verb in the negative forms.
+Positive: The pronoun attaches to the end of the conjugated verb.
+Negative: The pronoun proceeds the conjugated verb.
 
  - ¡No me lo mandes! => Don't send it to me!
  - ¡Mandemelo! => Send it to me!
+
+The positive _Tú_ form of the imperative is the Present Simple conjugation without the final 's'. The others use the following endings.
+
+  ar |   er |   ir
+----:|-----:|-----
+  es |   as |   as
+   e |    a |    a
+emos | amos | amos
+  en |   an |   an
+
