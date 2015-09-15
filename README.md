@@ -13,9 +13,11 @@ Misc.
 Gerund
 ------
  - The gerund is formed by adding the following endings onto the __root__ of the verb.
-ar | ando
-er | iendo
-ir | iendo
+old | new
+---:|:-----
+ ar |  ando
+ er | iendo
+ ir | iendo
  - The pronoun of the verb is often attached to the end of the gerund, however with continuous tenses it can also be placed before _Estar_.
 
 Vos
