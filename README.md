@@ -10,11 +10,19 @@ Notes
 Misc.
 =====
 
+Gerund
+------
+ - The gerund is formed by adding the following endings onto the __root__ of the verb.
+ar | ando
+er | iendo
+ir | iendo
+ - The pronoun of the verb is often attached to the end of the gerund, however with continuous tenses it can also be placed before _Estar_.
+
 Vos
 ---
 In Medellín, and maybe other parts of Colombia and Latin America in general, the _Vos_ conjugation is used among close friends instead of  _Tú_.
 
-To form the _Vos_ conjugation remplace _r_ at the end of the infinitive with an _s_ and add an accent onto the _a_,_e_, or _i_ that immediately proceeds it.
+To form the _Vos_ conjugation replace _r_ at the end of the infinitive with an _s_ and add an accent onto the _a_,_e_, or _i_ that immediately proceeds it.
 
  - Vivís => You live.
  - Comprás => You buy.
@@ -27,6 +35,10 @@ There are some irregular verbs
 Infinitive | Vos
 ----------:|:---
        Ser | Sos
+
+Todo
+====
+ - Add notes for Impersonal verbs.
 
 Feel free to use, modify, pull, push and whatever you want with them.
 No guarantee for accuracy, and no license. If you do notice inaccuracies feel free to make a pull request.
