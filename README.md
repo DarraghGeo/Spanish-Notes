@@ -3,6 +3,8 @@ Spanish Notes
 
 Included in this repository are my Spanish grammar notes.
 
+Most of these notes are extracted from Collin's Easy Spanish Grammar and Practice, which I hghly recommend.
+
 Notes
 -----
  - These Spanish notes are for Latin American Spanish (more specfically Colombian), as such the Vosotros conjugations are not included as they are not commonly used in Latin America.
@@ -45,6 +47,7 @@ Infinitive | Vos
 Todo
 ====
  - Add notes for Impersonal verbs.
+ - Add notes for Questions (?)
 
 Lisence
 =======
