@@ -17,7 +17,7 @@ Negative: The pronoun proceeds the conjugated verb.
 The positive _Tú_ form of the imperative is the Present Simple conjugation without the final 's'. The others use the following endings.
 
   ar |   er |   ir
-----:|-----:|-----
+----:|-----:|----:
   es |   as |   as
    e |    a |    a
 emos | amos | amos
