@@ -13,7 +13,7 @@ Or, when referrring to people, use _quien_ in place of _que_.
 The neuter form _Lo que_ can be used to refer to the previous part of the sentence, as opposed to just a noun.
 
 
-# Interrogative
+# Interrogative Pronouns
 ## Use
 Used to ask questions.
 
