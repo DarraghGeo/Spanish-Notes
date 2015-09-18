@@ -1,5 +1,7 @@
-# Definite Articles
-## Use
+# Parts of Speech
+
+## Definite Articles
+### Use
 When talking about general things
  - Me gustan los animales => I like animals
  - El desayuno es entre los 7 y los 9 => Breakfast is between 7 and 9
@@ -8,7 +10,7 @@ When talking about abstract qualities such as time, hope, and darkness
  - El tiempo es oro => Time is money
  - Amiro la sinceridad en la gente = I admire honesty in people
 
-## Form
+### Form
 The definite articles are
  - Singular
   - El (Masculine)
@@ -18,16 +20,16 @@ The definite articles are
   - Las (Feminine)
 
 
-# Indefinite Articles
+## Indefinite Articles
 
-## Use
+### Use
 Used when describing one or more unspecified noun.
 
 Do not use after _Tener_, _Buscar_, _Llevar_ when you are likely to only be referring to one thing, unless the nouns is further described by an adjective.
  - No tengo coche => I have not got a car
  - No tengo un choche rojo => I have not got a red car
 
-## Form
+### Form
 The indefinite articles are
  - Singular
   - Un (Masculine)
@@ -36,7 +38,7 @@ The indefinite articles are
   - Unos (Masculine)
   - Unas (Feminine)
 
-## Note
+### Note
 Do not use with:
  - Otro => Other
  - Cierto => Certain
@@ -47,12 +49,12 @@ Do not use with:
 
 
 
-# Nueter Articles
+## Nueter Articles
 
-## Use
+### Use
 When talking about things both parties are aware of but leave unspecified, or as emphasis.
 
-## Form
+### Form
 _Lo + Adjective/Past Participle_ forms a noun
  - Lo mismo => The same thing
  - Lo único => The only thing
@@ -71,12 +73,12 @@ _Lo + Adjective/Adverb + Que_ can be used to emphasise
  - Lo mucho que te gusta => How much you like
 
 
-# Nouns
+## Nouns
 
-## Use
+### Use
 Nouns are people, places, things, or ideas.
 
-## Form
+### Form
 Nouns as subject of verbs often go before the verb.
  - _El hombre_ conduce. => _The man_ drove.
 
@@ -87,7 +89,7 @@ If there is more than one of the noun it must end in _s_.
  - El hombre = Los hombres.
  - La silla => Las sillas.
 
-## Note
+### Note
 Nouns ending in the following are usually female:
 
  - a
@@ -101,12 +103,12 @@ When pluralizing nouns that end in Z, the Z becomes C
 
  Luz => Luces
 
-# Adjectives
+## Adjectives
 
-## Use
+### Use
 To further describe nouns.
 
-## Form
+### Form
 Adjectives typically go after the noun, but placing some of them before it can change their meaning.
 
 Adjective | Before        | After
@@ -120,18 +122,18 @@ Nuevo     | New           | Brand new
 Pobre     | Unfortunate   | Poor
 Viejo     | Long standing | Old age
 
-### Comparitives
+#### Comparitives
  - Más + adj + que => More + adj + than
  - Menos + adj + que => Less + adj + than
 
  - Tan + adj + como => As + adj + as
  - Tanto + noun + como => As + noun + as
 
-### Superlatives
+#### Superlatives
  - El más + adj => The most + adj
  - El menos + adj => The least + adj
 
-### Exclamations
+#### Exclamations
 You can use ¡Que...! as an exclemation to mean "What a(n) ...!"
 
  - ¡Qué lástima! => What a pity!
@@ -147,7 +149,7 @@ You can add tan/más + adj to further describe it.
  - ¡Cuanto dinero! => What a lot of money!
  - ¡Cuanta gente! => What a lot of people!
 
-### Possessive
+#### Possessive
 There are two sets of possesive adjectives.
 
  - The first go before the noun
@@ -177,13 +179,13 @@ The second set can also be used in exclamations.
  - ¡Amor mío! => My love!
 
 
-# Adverbs
+## Adverbs
 
-## Use
+### Use
 To further describer verbs or adjectives.
 - He speaks _slowly_.
 
-## Form
+### Form
 Regular adverbs are formed by adding _-mente_ onto the feminine singular form of the equivelent adjective.
  - _Lento_ becomes Lentamente
   - Habla muy lentamente => He speaks very slowly.
@@ -193,10 +195,10 @@ Placement:
  - Before the verb for emphasis.
  - Before the adjective it connects with.
 
-## Note
+### Note
 Adverbs that are the same as their adjective equivelent do not agree with anything.
 
-## Common examples
+### Common examples
 
 Adverb           | Translation
 ----------------:|:----------------------------
@@ -253,12 +255,12 @@ Tanto            | As much
 Ya               | Now
 
 
-# Prepositions
+## Prepositions
 
-## Use
+### Use
 Prepositions describe describe somethings position in time or space, or intent.
 
-## Form
+### Form
 Prepositions can be placed
  - In front of nouns and pronouns
  - In front of __infinitive__ verb forms
@@ -266,7 +268,7 @@ Prepositions can be placed
 
 __Prepositions cannot be placed at the end of a sentence.__
 
-### The _Personal A_
+#### The _Personal A_
 When the direct object of a verb is a person or pet animal it is proceeded by _a_.
  - Quieren mucho a sus hijos. => They loved their children a lot.
 
@@ -275,7 +277,7 @@ When the direct object of a verb is a person or pet animal it is proceeded by _a
 
 
 
-### The preposition _a_
+#### The preposition _a_
 
 Means                                        | Example
 :--------------------------------------------|:---------------------------
@@ -291,7 +293,7 @@ From                                         | Se lo compré a mi hermano.
 
 
 
-### The preposition _En_
+#### The preposition _En_
 
 Means                 | Example
 :---------------------|:------------------------
@@ -305,7 +307,7 @@ By transport (person) | Llegé en carro.
 
 
 
-### The preposition _de_
+#### The preposition _de_
 
 Means                        | Example
 :----------------------------|:------------------------------------
@@ -318,7 +320,7 @@ In, With, etc. (descriptors) | El chico de ojos azules.
 
 
 
-### The preposition _Para_
+#### The preposition _Para_
 
 Means         | Example
 :-------------|:---------------------------
@@ -329,7 +331,7 @@ For a time    | Es para mañana.
 In order to   | Lo hace para ganar deniro.
 
 
-### The preposition _Por_
+#### The preposition _Por_
 
 Means                   | Example
 :-----------------------|:------------------------
@@ -346,10 +348,10 @@ Because of              | Por lo que he oído.
 Via                     | Llamar por teléfono.
 
 
-# Relative Pronouns
-## Use
+## Relative Pronouns
+### Use
 
-## Form
+### Form
 When the pronoun follows a preposition you must use the definite article
 
  - Las mujers con las que estaba hablando. => The women with whom he was speaking.
@@ -357,15 +359,15 @@ When the pronoun follows a preposition you must use the definite article
 Or, when referrring to people, use _quien_ in place of _que_.
  - Las mujers con quienes estaba hablando.
 
-## Note
+### Note
 The neuter form _Lo que_ can be used to refer to the previous part of the sentence, as opposed to just a noun.
 
 
-# Interrogative Pronouns
-## Use
+## Interrogative Pronouns
+### Use
 Used to ask questions.
 
-## Form
+### Form
 The interrogative pronouns are
 
  - ¿Qué? => What?
@@ -374,18 +376,18 @@ The interrogative pronouns are
  - ¿De quién? => Whose?
  - ¿Cuanto? => How much?
 
-## Note
+### Note
 Use _¿Qué?_ when asking someone to define, explain or classify something, or if it is immediately followed by a noun. Otherwise, use _¿Cuál?_
 
 When _¿Quién?_ is the object of a verb it becomes _¿A quién?_
 
 
-# Questions
+## Questions
 
-## Use
+### Use
 Asking questions.
 
-## Form
+### Form
 When the subject of the verb is specified it is placed after the verb.
  - ¿Te ha visto tu padre? => Did your father see you?
  - ¿Lo has hecho tu? => Did you do it?
@@ -397,16 +399,16 @@ Otherwise the subject is placed before it.
  - ¿Se han comprado tus padres aquella casa de que me hablaste? => Did your parents by the house you told me about?
 
 
-# Verbs followed By Prepositions
+## Verbs followed By Prepositions
 
-# Use
+## Use
 Some verbs required a preposition to immediately follow it, others can change their meaning or intent by following them with a verb.
 
-## Form
+### Form
 Conjugated verb + preposition ( + infinitive verb )
 
 
-### Verbs that need no preposition
+#### Verbs that need no preposition
 
 Verb      | Followed By | Translation
 :---------|:-----------:|:-----------
@@ -440,7 +442,7 @@ Ver       |        Verb | To see
 
 
 
-### Verbs that are followed by the preposition _a_
+#### Verbs that are followed by the preposition _a_
 
 Verb        |   Followed By | Translation
 :-----------|:-------------:|:-----------
@@ -476,7 +478,7 @@ Some verbs in this category can also follow the following structure:
 
 
 
-### Verbs that are followed by the preposition _de_
+#### Verbs that are followed by the preposition _de_
 
 Verb        |    Followed By | Translation
 :-----------|:--------------:|:-----------
@@ -502,7 +504,7 @@ Tratarse    |  Noun (Person) | To be about
 
 
 
-### Verbs that are followed by the prepositin _con_
+#### Verbs that are followed by the prepositin _con_
 
 Verb        |     Followed By | Translation
 :-----------|:---------------:|:-----------
@@ -515,7 +517,7 @@ Soñar       |     Verb / Noun | To dream of
 
 
 
-### Verbs that are followed by the preposition _en_
+#### Verbs that are followed by the preposition _en_
 
 Verb   | Followed By | Translation
 :------|:-----------:|:-----------
@@ -525,7 +527,7 @@ Quedar |        Verb | To agree
 
 
 
-### Verbs that are followed by the preposition _por_
+#### Verbs that are followed by the preposition _por_
 
 Verb        |   Followed By | Translation
 :-----------|:-------------:|:-----------
@@ -533,13 +535,14 @@ Interesarse |          Noun | To ask about
 Preguntar   | Noun (Person) | To ask for
 Preocuparse |          Noun | To worry about
 
+# Indicative Verbs
 
-# Present Simple
+## Present Simple
 
-## Use
+### Use
 When referring to an action that is happening now, has happened in the immediate past, or will happen in the immediate future.
 
-## Form
+### Form
 
    ar |  er  | ir
  ----:|-----:|----:
@@ -549,19 +552,19 @@ When referring to an action that is happening now, has happened in the immediate
  amos | emos | emos
    an |   en |   en
 
-# Present Continuous
+## Present Continuous
 
-## Use
+### Use
 When referrring to an action that is happening at the very moment of speaking.
 
-## Form
+### Form
 Present Simple of Estar + Gerund of verb
 
 
-#Future
-## Use
+##Future
+### Use
 
-## Form
+### Form
 
  +ar |  +er |  +ir
 ----:|-----:|----:
@@ -573,28 +576,28 @@ emos | emos | emos
 Note: These endings are all the same. First person endings are with _é_, second and third person are with an _á_.
 
 
-# Perfect
+## Perfect
 
-## Use
+### Use
 To discuss something that has or has not happened
 
-## Form
+### Form
 Present tense of _Haber_ + past participle.
 
-## Example
+### Example
  - He terminado el libro. => I have finished the book.
  - Nunca ha estado en Irlanda. => I have never been to Ireland.
 
-## Note
+### Note
 Reflexive verbs are formed the sameway, with the reflexive pronoun proceding the conjugated _Haber_.
  - Me he lavado. => I have washed.
 
 
-# Conditional
+## Conditional
 
-## Use
+### Use
 
-## Form
+### Form
   +ar |   +er |   +ir
 -----:|------:|-----:
    ía |    ía |    ía
@@ -605,11 +608,11 @@ Reflexive verbs are formed the sameway, with the reflexive pronoun proceding the
 Note: These endings are all the same. First person endings are with _é_, second and third person are with an _á_.
 
 
-# Imperfect
+## Imperfect
 
-## Use
+### Use
 
-## Form
+### Form
 
    -ar |   -er |   -ir
 ------:|------:|-----:
@@ -620,29 +623,29 @@ abamos | íamos | íamos
   aban |   ían |   ían
 
 
-# Pluperfect
+## Pluperfect
 
-## Use
+### Use
 To discuss something that was true at one point in the past.
 
-## Form
+### Form
 Imperfect tense of _Haber_ + the past participle of the verb.
 
-## Example
+### Example
  - Había hablado. => I had spoken.
  - Habías trabajado. => You had worked.
 
-## Note
+### Note
 Reflexive verbs are formed the sameway, with the reflexive pronoun proceding the conjugated _Haber_.
  - Me había lavado. => I had washed.
 
 
-# Imperative
+## Imperative
 
-## Use
+### Use
 To give commands
 
-## Form
+### Form
 
   ar |   er |   ir
 ----:|-----:|----:
@@ -659,12 +662,12 @@ Negative: The pronoun proceeds the conjugated verb.
  - ¡No me lo mandes! => Don't send it to me!
  - ¡Mandemelo! => Send it to me!
 
-# Reflexive
+## Reflexive
 
-## Use
+### Use
 When the subject of the verb is also the object, and in place of passive constructions.
 
-## Form
+### Form
 Reflexive pronoun + conjugated verb
  - Me lavo. => I wash myself.
  - Aquí se venden muchos libros. => Books are sold here (litterally: Here many books sell themselves).
@@ -678,14 +681,14 @@ Pronoun | Meaning
      Se | Himself, herself, oneself, itself, yourselves, themselves
     Nos | Ourselves
 
-## Note
+### Note
 If the reflexive verb is in the infinitive and follows another verb you can place the pronoun before the conjugated verb.
  - Quiero bañarme. / Me quiero bañar. => I want to wash myself.
 
 
-# Subjunctive Mood
+# Subjunctive Verbs
 
-## Use
+### Use
  1. To express
   - Uncertainty or doubt
   - Hypothetical scenarious
@@ -698,7 +701,7 @@ If the reflexive verb is in the infinitive and follows another verb you can plac
   - opinions
  4. When two parts of the same sentence have different subjects.
 
-## Form
+### Form
 There are several tenses in the subjeunctive
  - Present
  - Imperfect
@@ -707,23 +710,23 @@ There are several tenses in the subjeunctive
  - Future Perfect
  - Pluperfect
 
-## Example
+### Example
 1. Dudo que tenga tiempo. => I doubt that I'll have time.
 2. Te caconsejo que no llegues tarde. => I'd advise that you don't be late.
 3. No creo que venga. => I don't think that she'll come.
 4. Queremos que él sea feliz. => We want that he is happy.
 
-## Note
+### Note
 For usage for if the first verb is in the __present__, __future__, or __imperative__ the __present subjunctive__ is used.
 If the first verb is in the __conditional__ or __a past tense__ the imperfect subjunctive is used.
 
 
-# Present Subjunctive
+## Present Subjunctive
 
-## Use
+### Use
 When describing current actions that require the subjunctive tense (see README.md)
 
-## Form
+### Form
 Remove the _o_ from the __first person singular present simple indicative__ tense and add the following endings.
 
  -ar |  -er |  -ir
@@ -734,17 +737,17 @@ Remove the _o_ from the __first person singular present simple indicative__ tens
 emos | amos | amos
   en |   an |   an
 
-## Note
+### Note
 If the subjunctive is used because the subject of the second verb is different from the first the present subjunctive will be used if the first verb is
  - Present
  - Future
  - Imperative
-# Imperfect Subjunctive
+## Imperfect Subjunctive
 
-## Use
+### Use
 When describing actions that used to happen, or happened regularly in the past, that require the Subjunctive. 
 
-## Form
+### Form
 There are two forms of Imperfect Subjunctive, they mean the exact same thing. The root for them both is the _second person plural preterite indicative_.
 
 The endings are
@@ -770,16 +773,16 @@ Or
 The first of these endings is more common.
 
 
-# Passive
+## Passive
 
-## Use
+### Use
 When the subject of the verb is the noun affected by it.
 
-## Form
+### Form
 _Ser_ + past participle
 
  - Son fabricados en España. => They're made in Spain.
  - Fue escrito por J.K. Rowling. => It was written by JK Rowling.
 
-## Note
+### Note
 The Passive Voice is not common in Spanish, it's best to avoid it.
