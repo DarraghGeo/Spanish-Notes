@@ -1,12 +1,9 @@
-Questions
-=========
+# Questions
 
-Use
----
+## Use
 Asking questions.
 
-Form
-----
+## Form
 When the subject of the verb is specified it is placed after the verb.
  - ¿Te ha visto tu padre? => Did your father see you?
  - ¿Lo has hecho tu? => Did you do it?

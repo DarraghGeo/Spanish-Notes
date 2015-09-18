@@ -1,20 +1,15 @@
-Pluperfect
-==========
+# Pluperfect
 
-Use
----
+## Use
 To discuss something that was true at one point in the past.
 
-Form
-----
+## Form
 Imperfect tense of _Haber_ + the past participle of the verb.
 
-Example
--------
+## Example
  - Había hablado. => I had spoken.
  - Habías trabajado. => You had worked.
 
-Note
-----
+## Note
 Reflexive verbs are formed the sameway, with the reflexive pronoun proceding the conjugated _Haber_.
  - Me había lavado. => I had washed.

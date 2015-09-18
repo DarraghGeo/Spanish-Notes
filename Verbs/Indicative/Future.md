@@ -1,5 +1,7 @@
-Future
-======
+#Future
+## Use
+
+## Form
 
  +ar |  +er |  +ir
 ----:|-----:|----:

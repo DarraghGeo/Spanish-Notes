@@ -1,8 +1,6 @@
-Subjunctive
-===========
+# Subjunctive Mood
 
-Use
----
+## Use
  1. To express
   - Uncertainty or doubt
   - Hypothetical scenarious
@@ -15,8 +13,7 @@ Use
   - opinions
  4. When two parts of the same sentence have different subjects.
 
-Form
-----
+## Form
 There are several tenses in the subjeunctive
  - Present
  - Imperfect
@@ -25,14 +22,12 @@ There are several tenses in the subjeunctive
  - Future Perfect
  - Pluperfect
 
-Example
--------
+## Example
 1. Dudo que tenga tiempo. => I doubt that I'll have time.
 2. Te caconsejo que no llegues tarde. => I'd advise that you don't be late.
 3. No creo que venga. => I don't think that she'll come.
 4. Queremos que él sea feliz. => We want that he is happy.
 
-Note
-----
+## Note
 For usage for if the first verb is in the __present__, __future__, or __imperative__ the __present subjunctive__ is used.
 If the first verb is in the __conditional__ or __a past tense__ the imperfect subjunctive is used.

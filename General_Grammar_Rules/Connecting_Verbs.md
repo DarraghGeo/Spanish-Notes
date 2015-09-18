@@ -1,13 +1,13 @@
-Verbs followed By Prepositions
-==============================
+# Verbs followed By Prepositions
 
-When verbs are linked together the second verb is usually in the infinitive form.
+# Use
+Some verbs required a preposition to immediately follow it, others can change their meaning or intent by following them with a verb.
 
-The meaning of verbs can change depending on the preposition following it.
+## Form
+Conjugated verb + preposition ( + infinitive verb )
 
 
-Verbs that need no preposition
-------------------------------
+### Verbs that need no preposition
 
 Verb      | Followed By | Translation
 :---------|:-----------:|:-----------
@@ -41,8 +41,7 @@ Ver       |        Verb | To see
 
 
 
-Verbs that are followed by the preposition _a_
------------------------------------------------
+### Verbs that are followed by the preposition _a_
 
 Verb        |   Followed By | Translation
 :-----------|:-------------:|:-----------
@@ -78,8 +77,7 @@ Some verbs in this category can also follow the following structure:
 
 
 
-Verbs that are followed by the preposition _de_
------------------------------------------------
+### Verbs that are followed by the preposition _de_
 
 Verb        |    Followed By | Translation
 :-----------|:--------------:|:-----------
@@ -105,8 +103,7 @@ Tratarse    |  Noun (Person) | To be about
 
 
 
-Verbs that are followed by the prepositin _con_
-------------------------------------------------
+### Verbs that are followed by the prepositin _con_
 
 Verb        |     Followed By | Translation
 :-----------|:---------------:|:-----------
@@ -119,8 +116,7 @@ Soñar       |     Verb / Noun | To dream of
 
 
 
-Verbs that are followed by the preposition _en_
------------------------------------------------
+### Verbs that are followed by the preposition _en_
 
 Verb   | Followed By | Translation
 :------|:-----------:|:-----------
@@ -130,8 +126,7 @@ Quedar |        Verb | To agree
 
 
 
-Verbs that are followed by the preposition _por_
--------------------------------------------------
+### Verbs that are followed by the preposition _por_
 
 Verb        |   Followed By | Translation
 :-----------|:-------------:|:-----------

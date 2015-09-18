@@ -1,9 +1,9 @@
-Adjectives
-==========
+# Adjectives
 
-Order
------
+## Use
+To further describe nouns.
 
+## Form
 Adjectives typically go after the noun, but placing some of them before it can change their meaning.
 
 Adjective | Before        | After
@@ -17,23 +17,18 @@ Nuevo     | New           | Brand new
 Pobre     | Unfortunate   | Poor
 Viejo     | Long standing | Old age
 
-Comparitives
-------------
-
+### Comparitives
  - Más + adj + que => More + adj + than
  - Menos + adj + que => Less + adj + than
 
  - Tan + adj + como => As + adj + as
  - Tanto + noun + como => As + noun + as
 
-Superlatives
-------------
+### Superlatives
  - El más + adj => The most + adj
  - El menos + adj => The least + adj
 
-Exclamations
-------------
-
+### Exclamations
 You can use ¡Que...! as an exclemation to mean "What a(n) ...!"
 
  - ¡Qué lástima! => What a pity!
@@ -49,9 +44,7 @@ You can add tan/más + adj to further describe it.
  - ¡Cuanto dinero! => What a lot of money!
  - ¡Cuanta gente! => What a lot of people!
 
-Possessive
-----------
-
+### Possessive
 There are two sets of possesive adjectives.
 
  - The first go before the noun

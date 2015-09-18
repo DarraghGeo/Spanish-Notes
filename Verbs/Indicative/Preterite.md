@@ -1,5 +1,8 @@
-Preterite
-=========
+# Preterite
+
+## Use
+
+## Form
 
  -ar |   -er |   -ir
 ----:|------:|-----:

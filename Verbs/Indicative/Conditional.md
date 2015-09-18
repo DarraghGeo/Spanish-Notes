@@ -1,6 +1,8 @@
-Conditional
-===========
+# Conditional
 
+## Use
+
+## Form
   +ar |   +er |   +ir
 -----:|------:|-----:
    ía |    ía |    ía

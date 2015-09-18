@@ -1,9 +1,9 @@
 # Prepositions
 
-#### Use
+## Use
 Prepositions describe describe somethings position in time or space, or intent.
 
-#### Form
+## Form
 Prepositions can be placed
  - In front of nouns and pronouns
  - In front of __infinitive__ verb forms
@@ -11,7 +11,7 @@ Prepositions can be placed
 
 __Prepositions cannot be placed at the end of a sentence.__
 
-## The _Personal A_
+### The _Personal A_
 When the direct object of a verb is a person or pet animal it is proceeded by _a_.
  - Quieren mucho a sus hijos. => They loved their children a lot.
 
@@ -20,7 +20,7 @@ When the direct object of a verb is a person or pet animal it is proceeded by _a
 
 
 
-## The preposition _a_
+### The preposition _a_
 
 Means                                        | Example
 :--------------------------------------------|:---------------------------
@@ -36,7 +36,7 @@ From                                         | Se lo compré a mi hermano.
 
 
 
-## The preposition _En_
+### The preposition _En_
 
 Means                 | Example
 :---------------------|:------------------------
@@ -50,7 +50,7 @@ By transport (person) | Llegé en carro.
 
 
 
-## The preposition _de_
+### The preposition _de_
 
 Means                        | Example
 :----------------------------|:------------------------------------
@@ -63,7 +63,7 @@ In, With, etc. (descriptors) | El chico de ojos azules.
 
 
 
-## The preposition _Para_
+### The preposition _Para_
 
 Means         | Example
 :-------------|:---------------------------
@@ -74,7 +74,7 @@ For a time    | Es para mañana.
 In order to   | Lo hace para ganar deniro.
 
 
-## The preposition _Por_
+### The preposition _Por_
 
 Means                   | Example
 :-----------------------|:------------------------

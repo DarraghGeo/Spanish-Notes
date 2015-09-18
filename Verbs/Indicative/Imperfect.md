@@ -1,5 +1,8 @@
-Imperfect
-=========
+# Imperfect
+
+## Use
+
+## Form
 
    -ar |   -er |   -ir
 ------:|------:|-----:

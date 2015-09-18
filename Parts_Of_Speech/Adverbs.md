@@ -1,13 +1,10 @@
-Adverbs
-=======
+# Adverbs
 
-Use
----
+## Use
 To further describer verbs or adjectives.
 - He speaks _slowly_.
 
-Form
-----
+## Form
 Regular adverbs are formed by adding _-mente_ onto the feminine singular form of the equivelent adjective.
  - _Lento_ becomes Lentamente
   - Habla muy lentamente => He speaks very slowly.
@@ -17,11 +14,10 @@ Placement:
  - Before the verb for emphasis.
  - Before the adjective it connects with.
 
-Note
-----
+## Note
 Adverbs that are the same as their adjective equivelent do not agree with anything.
 
-The following are a list of common adverbs.
+## Common examples
 
 Adverb           | Translation
 ----------------:|:----------------------------

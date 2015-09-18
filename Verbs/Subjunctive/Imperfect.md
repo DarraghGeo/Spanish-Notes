@@ -1,12 +1,9 @@
-Imperfect Subjunctive
-=====================
+# Imperfect Subjunctive
 
-Use
----
+## Use
 When describing actions that used to happen, or happened regularly in the past, that require the Subjunctive. 
 
-Form
-----
+## Form
 There are two forms of Imperfect Subjunctive, they mean the exact same thing. The root for them both is the _second person plural preterite indicative_.
 
 The endings are

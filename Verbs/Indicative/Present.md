@@ -1,12 +1,9 @@
-Present Indicative Verb Tenses
-==============================
+# Present Simple
 
-Present Simple
---------------
+## Use
+When referring to an action that is happening now, has happened in the immediate past, or will happen in the immediate future.
 
-Used when referring to an action that is happening now, has happened in the immediate past, or will happen in the immediate future.
-
-The following endings are ended onto the __root__ of the verb.
+## Form
 
    ar |  er  | ir
  ----:|-----:|----:
@@ -16,11 +13,11 @@ The following endings are ended onto the __root__ of the verb.
  amos | emos | emos
    an |   en |   en
 
-Present Continuous
-------------------
+# Present Continuous
 
-Used when referrring to an action that is happening at the very moment of speaking.
+## Use
+When referrring to an action that is happening at the very moment of speaking.
 
- - Formed with the present simple conjugation of _Estar_ and the Gerund of the verb.
-
+## Form
+Present Simple of Estar + Gerund of verb
 
