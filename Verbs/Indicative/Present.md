@@ -1,7 +1,7 @@
 # Present Simple
 
 ## Use
-When referring to an action that is happening now, has happened in the immediate past, or will happen in the immediate future.
+When referring to an action that is happening now, happens regularly, or will happen in the near future.
 
 ## Form
 
@@ -13,11 +13,8 @@ When referring to an action that is happening now, has happened in the immediate
  amos | emos | emos
    an |   en |   en
 
-# Present Continuous
-
-## Use
-When referrring to an action that is happening at the very moment of speaking.
-
-## Form
-Present Simple of Estar + Gerund of verb
-
+## Note
+This tense is also used with _Hace_ in expressions of time.
+ - Hace tres años que esperamos una respuesta. => We have been waiting for an answer for three years.
+ - Esperamos una respuesta hace tres años. => We have been waiting for an answer for three years.
+ - Esperamos una respuesta desde hace tres años. => We have been waiting for an answer for three years.
